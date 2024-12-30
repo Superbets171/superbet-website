@@ -1,0 +1,16 @@
+# Menu
+## Main Menu
+* [Home](#home)
+* [About](#about)
+* [Contact](#contact)
+
+## Sub Menu
+* [FAQ](#faq)
+* [Terms](#terms)
+* [Privacy](#privacy)
+<a href="home. html">Home</a>
+<a name="about"></a>
+<a name="contact"></a>
+<a name="faq"></a>
+<a name="terms"></a>
+<a name="privacy"></a>
